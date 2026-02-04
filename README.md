@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Edu
 
-🎓 Software Engineering graduate
+🎓 Software Engineering graduate (2026)
 🤖 Interested in Artificial Intelligence, NLP, and intelligent systems
 📡 Enthusiast of embedded systems, wireless communication, and low-level networking
 
 ---
 
 ## 🚀 Current Focus
-- **Final Project:** Semantic similarity system using embeddings (PT-BR)
+- **Final graduation project focused on semantic similarity using sentence embeddings, featuring CLI and web interface (Streamlit)
 - **Embedded Systems:** ESP32 development with C and networking tools
 - **Systems Programming:** C, Python, build systems, and CLI tools
 
