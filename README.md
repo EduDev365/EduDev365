@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Edu
 
-<!--
-**EduDev365/EduDev365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering graduate
+🤖 Interested in Artificial Intelligence, NLP, and intelligent systems
+📡 Enthusiast of embedded systems, wireless communication, and low-level networking
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- **Final Project:** Semantic similarity system using embeddings (PT-BR)
+- **Embedded Systems:** ESP32 development with C and networking tools
+- **Systems Programming:** C, Python, build systems, and CLI tools
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- C / C++
+- Python
+
+### Embedded & Systems
+- ESP32 / ESP-IDF
+- Low-level networking
+- CMake
+- Systems programming
+
+### AI & Data
+- NLP
+- Embeddings
+- Semantic similarity
+- Machine learning fundamentals
+
+### Development Tools
+- Git / GitHub
+- Virtual environments
+- Command line tools
+
+---
+
+## 📌 Featured Project
+
+### 🔎 Semantic Text Similarity (PT-BR)
+Final graduation project focused on semantic comparison using sentence embeddings, with CLI and web interface.
+
+👉 https://github.com/EduDev365/semantic-text-similarity-ptbr
+
+---
+
+## 🧠 Interests
+- Embedded & IoT systems
+- Wireless communication
+- AI at the edge
+- Applied machine learning
+- Systems programming
+
+---
+
+## 📫 Contact
+📧 Email: tof_eduardo@hotmail.com
