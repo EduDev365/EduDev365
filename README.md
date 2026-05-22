@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Edu
+# 👋 Hi, I'm Eduardo
 
 AI Systems Engineer focused on RAG architectures, semantic search, and backend systems for AI applications.
 
