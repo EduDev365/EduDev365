@@ -34,7 +34,8 @@ Python • FastAPI • PostgreSQL • pgvector • Redis • RAG systems • Doc
 ---
 
 ## Education
-Bachelor’s Degree + Postgraduate in Data Science & AI (ongoing)
+Bachelor’s Degree in Software Engineering  
+Postgraduate in Data Science & Artificial Intelligence (ongoing)
 
 ---
 
